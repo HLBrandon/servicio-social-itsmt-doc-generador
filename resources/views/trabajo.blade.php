@@ -8,7 +8,7 @@
                 @csrf
 
                 <div class="card-header d-flex">
-                    <h5 class="my-auto me-auto">ANEXO XVIII</h5>
+                    <h5 class="my-auto me-auto">Plan de Trabajo</h5>
                     <a class="btn btn-sm btn-secondary me-2" href="{{ route('index') }}">Volver</a>
                     <button class="btn btn-sm btn-success" type="submit" id="btnGenerarSolicitud">Generar</button>
                 </div>
